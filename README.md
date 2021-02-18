@@ -1,4 +1,5 @@
-[![Header](https://raw.githubusercontent.com/HarshTPG/<OWNER>/<OWNER>/readme_header.png "Header")](https://cdn.discordapp.com/emojis/751746964072431638.png?v=1)
+[![Header](https://raw.githubusercontent.com/HarshTPG/<OWNER>/<OWNER>/readme_header.png "https://cdn.discordapp.com/emojis/751746964072431638.png?v=1")](https://cdn.discordapp.com/emojis/751746964072431638.png?v=1)
+
 
 ### Hi there 👋
 
