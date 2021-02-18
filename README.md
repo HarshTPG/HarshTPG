@@ -1,7 +1,7 @@
-<h1 align="center">Hello there, I'm HarshTPG</h1>
-<h3 align="center">A JS developer and student</h3>
--I’m currently working on my Discord bot, [BlingBot](https://discord.com/api/oauth2/authorize?client_id=796936961884553258&permissions=0&scope=bot)
--You can DM me on discord (HyperBeast#0001)
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.javascript.com/" target="_blank"> </a> </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HarshTPG&show_icons=true&locale=en&theme=dark" alt="HarshTPG" /></p>
+<div align=center>
+<h3> Hi there 👋, I'm <b>HarshTPG</b>. I'm currently learning more about JavaScript and making Discord Bots with it.</h3>
+<img class="center" src="https://readme-github-stats.now.sh/api?username=HarshTPG&theme=blue-green&show&icons=true">
+<img src="https://readme-github-stats.now.sh/api/wakatime/?username=HarshTPG&theme=blue-green&show&icons=true"></center>
+
+Be sure to check out my [Discord Bot](https://discord.com/api/oauth2/authorize?client_id=796936961884553258&permissions=0&scope=bot)
+</div>
